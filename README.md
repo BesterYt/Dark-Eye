@@ -12,5 +12,5 @@ Telegram better report tool. Telegram support react on someone when he got a lot
 <img width="549" height="852" alt="image" src="https://github.com/user-attachments/assets/9c3c918c-c478-413e-99b7-1ab30afd5a49" />
 
 #Установите зависимости и python.
-•git clone 
+•git clone https://github.com/BesterYt/Dark-Eye.git
 •pip install colored pystyle
